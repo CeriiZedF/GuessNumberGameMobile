@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GuessNumberGame</string>
+    <string name="count_attemts">Количество попыток: %1$d</string>
+    <string name="winner">Вы выиграли</string>
+    <string name="lose">Вы не угадали! Увы. Число: %1$d</string>
+    <string name="number_greater">Число больше!</string>
+    <string name="number_less">Число меньше!</string>
+    <string name="number_equal">Угадали</string>
+    <string name="game_hello">Загадано число, попытайтесь угадать!</string>
+    <string name="input">Ввод</string>
+    <string name="lose_reset_text">Попробовать еще раз? :)</string>
+    <string name="winner_reset_text">Попробовать еще</string>
+    <string name="custom_guess_number">Загадує людина?</string>
+    <string name="random_guess_number">Сгенерировать случайное число?</string>
+    <string name="input_my_number">Введите свое число</string>
+    <string name="field_emptry">Поле пустое</string>
+    <string name="number_no_range">Число не в диапазоне от %1$d до %2$d</string>
+</resources>
